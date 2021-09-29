@@ -11,6 +11,6 @@ In this new DataFrame
 
 
 # Summary
-The results indicate there is absolutely no positivity bias for reviews in the Vine Program. It actually looks like Vine Program members are very strict and not so generous while at the same time non Vine reviewers are more enthusiastic. 
+The results indicate there is no positivity bias for reviews in the Vine Program. There are twice as much 5 star reviews for non Vine reviews.
 
-Looking again at our initial dataset we observe a total of 104975 reviews.Breaking this number down we only have 18 Vine reviews in total while there are 104957 non Vine reviews. A very small sample of Vine reviews compared to a huge sample of non Vine Reviews. 22% of all Vine reviews were declared helpful compared to  only 1% of non Vine reviews wer
+Looking again at our initial dataset we observe a total of 104975 reviews.Breaking this number down we only have 18 Vine reviews in total while there are 104957 non Vine reviews. A very small sample of Vine reviews compared to a huge sample of non Vine Reviews. 22% of all Vine reviews were declared helpful compared to  only 1% of non Vine. Vine Program does boost the usefulness of reviews without adding positivity bias. 
